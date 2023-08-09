@@ -1,7 +1,7 @@
 [![MasterHead](https://vignette.wikia.nocookie.net/glee/images/3/34/Gundam_unicorn.gif/revision/latest?cb=20150218004428)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alberto Anunciado Jr</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-(img align="right" alt="Coding" width="400" src="https://38.media.tumblr.com/0a389c9eba61237c1f3cc078455712a8/tumblr_msetqyoVyB1r60ay5o1_500.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hysa&label=Profile%20views&color=0e75b6&style=flat" alt="hysa" /> </p>
 
