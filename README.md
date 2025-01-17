@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hysa&label=Profile%20views&color=0e75b6&style=flat" alt="hysa" /> </p>
 
 <h1 align="center">Hi 👋, I'm Alberto Anunciado Jr</h1>
 <h3 align="center">A passionate front-end developer from the Philippines</h3>
