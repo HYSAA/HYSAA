@@ -1,10 +1,10 @@
-[![MasterHead](https://vignette.wikia.nocookie.net/glee/images/3/34/Gundam_unicorn.gif/revision/latest?cb=20150218004428)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Alberto Anunciado Jr</h1>
 <h3 align="center">A passionate front-end developer from the Philippines</h3>
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hysa&label=Profile%20views&color=0e75b6&style=flat" alt="hysa" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hysa" alt="hysa" /></a> </p>
 
 - 🌱 I’m currently learning **React,NodeJS,TypeScript**
